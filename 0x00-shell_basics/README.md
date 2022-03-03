@@ -1,5 +1,5 @@
 a script that prints the absolute pathname of the current working directory.
-Diplay the contents list of your current directory
+Diplay the contents list of your current directory.
 write a script that changes the working directory to the user's home dirrectory
 Display current directory contents in a long format
 Display current directory contents,including hidden files(starting with .). Use the long format.
